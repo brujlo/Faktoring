@@ -1,0 +1,7 @@
+C:\Users\brujlo\Source\Repos\Faktoring\Faktoring\Faktoring\bin\Debug\Faktoring.exe.config
+C:\Users\brujlo\Source\Repos\Faktoring\Faktoring\Faktoring\bin\Debug\Faktoring.exe
+C:\Users\brujlo\Source\Repos\Faktoring\Faktoring\Faktoring\bin\Debug\Faktoring.pdb
+C:\Users\brujlo\Source\Repos\Faktoring\Faktoring\Faktoring\obj\Debug\Faktoring.csprojResolveAssemblyReference.cache
+C:\Users\brujlo\Source\Repos\Faktoring\Faktoring\Faktoring\obj\Debug\Faktoring.csproj.CoreCompileInputs.cache
+C:\Users\brujlo\Source\Repos\Faktoring\Faktoring\Faktoring\obj\Debug\Faktoring.exe
+C:\Users\brujlo\Source\Repos\Faktoring\Faktoring\Faktoring\obj\Debug\Faktoring.pdb
